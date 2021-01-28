@@ -1,0 +1,9 @@
+.icon__less > a > span > span {
+    display: none ;
+
+}
+
+.icon__less > a > span > svg {
+   margin : auto ;
+   font-size: xx-large;
+}
